@@ -3,7 +3,7 @@
 
 #How to use:
 # "python Clean_Loan_Data.py"
-# Requirements: Ensure both 'Loan-Train.csv' and 'Loan-Test.csv'
+# Requirements: Ensure both 'Loan-Train.csv' and 'Loan-Test.csv' exist in the same folder as this script.
 
 import pandas as pd
 import numpy as np
