@@ -1,9 +1,8 @@
-Notebooks Folder — Loan Eligibility Prediction Project
+##Notebooks Folder — Loan Eligibility Prediction Project
 This folder contains all Jupyter Notebooks used throughout the Loan Eligibility Prediction data science workflow. Each notebook corresponds to a specific project phase, following the roadmap outlined in the team project plan.
 
-The notebooks in this directory are meant for interactive exploration, documentation, and reproducible analysis. They should be clearly written, annotated, and easily understandable by all team members.
 
-Notebook Index: 
+##Notebook Index: 
 Notebook- Author: Description
 exploration.ipynb- Peter:	Performs Exploratory Data Analysis (EDA) — visualizes distributions, correlations, and class balance using the cleaned dataset.
 feature_engineering.ipynb- Annie Lin:	Handles Feature Engineering & Data Transformation — encodes categorical variables, scales numeric features, creates new engineered features, and prepares data for modeling.
