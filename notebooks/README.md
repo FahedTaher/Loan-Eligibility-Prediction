@@ -3,8 +3,7 @@ This folder contains all Jupyter Notebooks used throughout the Loan Eligibility 
 
 
 ## Notebook Index: 
-Notebook- Author: Description
 
 ### exploration.ipynb- Peter:	Performs Exploratory Data Analysis (EDA) — visualizes distributions, correlations, and class balance using the cleaned dataset.
-### feature_engineering.ipynb- Annie Lin:	Handles Feature Engineering & Data Transformation — encodes categorical variables, scales numeric features, creates new engineered features, and prepares data for modeling.
+### feature_engineering.ipynb- Annie:	Handles Feature Engineering & Data Transformation — encodes categorical variables, scales numeric features, creates new engineered features, and prepares data for modeling.
 ### modeling.ipynb	Cindy & Kent:	Covers Model Building, Hyperparameter Tuning, and Evaluation — trains baseline and advanced models (e.g., Logistic Regression, Decision Tree, Random Forest, XGBoost) and assesses fairness.
