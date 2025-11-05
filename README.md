@@ -8,10 +8,10 @@ This repository contains our team’s final Data Science project analyzing loan 
 
 ## Team Members
 - Member A (Fahed) — Data Validation & Report Lead
-- Member B ()— EDA & Visualization
-- Member C ()— Feature Engineering
-- Member D ()— Modeling
-- Member E ()— Evaluation & Fairness
+- Member B (Peter)— EDA & Visualization
+- Member C (Annie)— Feature Engineering
+- Member D (Cindy)— Modeling
+- Member E (Kent)— Evaluation & Fairness
 
 ## Project Structure
 - `data/` — Raw and cleaned datasets
